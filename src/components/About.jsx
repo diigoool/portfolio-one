@@ -13,23 +13,16 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non minus
-          quo necessitatibus inventore, fugit asperiores, repellat cupiditate
-          corrupti animi, quae enim eligendi hic in libero! Similique quis
-          eligendi, eveniet optio sint vero tenetur quo earum adipisci
-          laboriosam eaque exercitationem molestias reprehenderit voluptatem in
-          debitis pariatur illum soluta vitae inventore cumque.
+          A bachelor degree of Information System from STMIK Nusa Mandiri.
+          Experienced as a Admin HR who works with job portal, create databases
+          employee , contact apllicants. Currently working as a Service Desk in
+          charge of being responsible for user reports and making ticket report
+          and also attending Full-Stack Web Developer bootcamp program for
+          deepening skills in Web Developer. A detail-oriented individual who is
+          eager for a full- time opportunity in Full-Stack Web Development
         </p>
         <br />
-        <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus
-          reprehenderit cumque assumenda similique fugit. Non, molestiae.
-          Necessitatibus earum soluta maxime, sunt aperiam illo voluptas sit
-          natus ullam officia voluptate delectus est dignissimos blanditiis
-          mollitia molestiae expedita, ducimus nihil. Temporibus, nisi ab
-          commodi veniam esse in accusantium laboriosam voluptatibus impedit
-          perferendis?
-        </p>
+        <p className="text-xl"></p>
       </div>
     </div>
   );
